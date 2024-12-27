@@ -9,16 +9,15 @@
 - 07 What is a scope?
 - 08 What are the different Scopes in JS?
 - 09 Explain all the scopes in detail.
-- 10 Explain the lifetime of JS Variables. 
+- 10 Explain the lifetime of JS Variables.
 
 # Variables
 
-- In JavaScript, variables are used to store data values
-- that can be referenced and manipulated throughout a program.
-- A variable is essentially a container
-- or a named reference to a value.
-- Variables allow you to label data with a descriptive name,
-- so it can be used and updated easily.
+- In JavaScript, a variable is essentially a `container of data`,
+- which are used to `store data values`
+- that can be `referenced` and `manipulated` throughout a program.
+- Variables allow you to `label` data with a descriptive name,
+- so it can be used and `updated` easily.
 
 ## Variable Declaration
 
@@ -107,7 +106,7 @@ The Assignment operator "=" is used to assign values to JavaScript variables.
 
 # Scoping
 
-The Scope is the region of the code where a certain variable can be accessed.
+The Scope is the `region` of the code where a certain `variable` can be `accessed`.
 
 In JavaScript there are 3 types of scope:
 
