@@ -114,7 +114,7 @@ let x = 42; // `42` is a literal, and `x` holds the value 42.
 let y = 2 + 3; // `2 + 3` is an expression that evaluates to the value 5, but 5 is a value, not a literal.
 ```
 
-# Data Types
+# Data Types (Mnemonics: NUb NuB SOSO -> OSAM Fun DP )
 
 JavaScript has 8 Datatypes:
 
