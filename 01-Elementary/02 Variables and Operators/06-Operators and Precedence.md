@@ -1,3 +1,9 @@
+# Questions
+
+- 01 What are operators in JS?
+- 02 Explain differennt Operators in detail. 
+- 03 Explain precedence in detail.
+
 # Operators
 
 Javascript operators are used to perform different types of mathematical and logical computations.

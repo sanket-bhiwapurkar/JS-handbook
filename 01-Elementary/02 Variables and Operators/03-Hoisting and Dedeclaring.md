@@ -1,3 +1,10 @@
+# Questions
+
+- 01 What is Hoisting?
+- 02 Explain Hoisting while declaration and Initialization.
+- 03 Explain the working of hoisting in var, let and const variables.
+- 04 Compare var, let and const.
+
 # Hoisting
 
 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).

@@ -1,3 +1,12 @@
+# Questions
+
+- 01 what are parameters? How to define a function with parameters?
+- 02 What are parameter rules?
+- 03 What are default parameters?
+- 04 Explain rest parameter.
+- 05 Explain arguments object.
+- 06 Explain passed by value and passed by reference.
+
 # Function Parameters
 
 A JavaScript function does not perform any checking on parameter values (arguments).

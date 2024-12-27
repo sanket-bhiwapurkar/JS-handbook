@@ -1,3 +1,8 @@
+# Questions
+
+- 01 How/(In how many ways) can we include JS code in html? or:
+- 02 Explain the `<script>` tag in detail.
+
 # include
 
 ## The `<script>` Tag

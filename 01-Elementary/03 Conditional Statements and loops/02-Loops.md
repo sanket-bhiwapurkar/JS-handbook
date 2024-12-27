@@ -1,3 +1,9 @@
+# Questions
+
+- 01 What are loops and why they are used?
+- 02 Name all the loops in JS.
+- 03 Explain all the loops in details. 
+
 # Loops
 
 Loops can execute a block of code a number of times. Loops are handy, if you want to run the same code over and over again, each time with a different value. Often this is the case when working with arrays:

@@ -1,3 +1,10 @@
+# Questions
+
+- 01 What are conditional statements and why they are used?
+- 02 Name all the conditional Statements.
+- 03 Explain all the conditional Statements in detail.
+- 04 What is Common Code Blocks in switch statement.
+
 # Conditional Statements
 
 Very often when you write code, you want to perform different actions for different decisions.

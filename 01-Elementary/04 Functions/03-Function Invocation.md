@@ -1,3 +1,10 @@
+# Questions 
+
+- 01 What is function Invocation?
+- 02 Explain Invoking a Function as a Function? What happens to global object?
+- 03 Explain Invoking a Function as a Method. 
+- 04 Explain Invoking a Function with the Constructor.
+
 # Function Invocation
 
 The code inside a JavaScript function will execute when "something" invokes it.

@@ -1,3 +1,10 @@
+# Questions
+
+- 01 What is a pogram?
+- 02 What are statements?
+- 03 What is a code block?
+- 04 What character set is used in JS?
+
 # JavaScript Programs
 
 A **computer program** is a list of "instructions" to be "executed" by a computer.

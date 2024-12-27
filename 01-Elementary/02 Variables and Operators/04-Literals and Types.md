@@ -1,3 +1,13 @@
+# Questions
+
+- 01 What are literals?
+- 02 Explain different types of literals?
+- 03 How are literals different from values?
+- 04 What are types in JS?
+- 05 What are 2 categories of types? Explain them in detail.
+- 06 Explain the difference between Primitive types and Reference types.
+- 07 Explain different types in JS.
+
 # Literals
 
 In JavaScript, **literals** are fixed values that are written directly in the code. They represent data values that are assigned to variables or used in expressions without needing any calculation or computation. Literals can be of various types, and each type has its specific syntax.

@@ -1,3 +1,7 @@
+# Questions
+
+- 01 How to display data on the Web page using JS?
+
 # JavaScript Display Possibilities
 
 JavaScript can "display" data in different ways:

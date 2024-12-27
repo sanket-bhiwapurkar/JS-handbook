@@ -1,3 +1,9 @@
+# Questions
+
+- 01 What are keywords in JS?
+- 02 What are Identifiers in JS?
+- 03 What rules are to be followed when nameing Identifiers?
+
 # Keywords/Reserved Words
 
 JavaScript statements often start with a keyword to identify the JavaScript action to be performed. JavaScript keywords are reserved words. Reserved words cannot be used as names for variables.

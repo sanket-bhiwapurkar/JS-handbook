@@ -1,3 +1,9 @@
+# Questions
+
+- 01 What are JS comments? 
+- 02 What are different ways to include comments?
+- 03 What are the uses of comments?
+
 # JavaScript Comments
 
 JavaScript comments are annotations or notes within the code that are intended for developers to read, but they are ignored by the compiler or interpreter during code execution.

@@ -1,3 +1,10 @@
+# Questions
+
+- 01 What is var?
+- 02 Explain let and variable declared with let and when to use them.
+- 03 Explain const and variable declared with const and when to use them.
+- 04 Explain constant objects and arrays.
+
 ## Using let
 
 The value of a Variable declared with let can be updated

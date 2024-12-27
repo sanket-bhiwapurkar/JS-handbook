@@ -1,3 +1,16 @@
+# Questions
+
+- 01 Define Variables?
+- 02 What are the different ways of declaring variables?
+- 03 Explain variable Declaration.
+- 04 How to declare multiple variables in a single line?
+- 05 Explain Variable Assignment.
+- 06 How to declare and assign a variable at the same time?
+- 07 What is a scope?
+- 08 What are the different Scopes in JS?
+- 09 Explain all the scopes in detail.
+- 10 Explain the lifetime of JS Variables. 
+
 # Variables
 
 - In JavaScript, variables are used to store data values

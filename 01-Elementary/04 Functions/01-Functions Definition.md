@@ -1,3 +1,13 @@
+# Questions
+
+- 01 What are functions?
+- 02 What is function definition?
+- 03 Explain different ways to define functions in detail.
+- 04 What are self-invoking functions?
+- 05 Explain function as values and expressions.
+- 06 What type is a function?
+- 07 Explain Hoisting in functions?
+
 # Functions
 
 A JavaScript function is a block of code designed to perform a particular task.
