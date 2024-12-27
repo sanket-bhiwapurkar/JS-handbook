@@ -7,6 +7,8 @@
 
 ## Using let
 
+(Mnemonics: intro, declare, redeclare, reassigned?, scope)
+
 The value of a Variable declared with let can be updated
 
 The let keyword was introduced in ES6 (2015)
@@ -26,6 +28,8 @@ let z = x + y;
 Only use let if you can't use const
 
 ## Using const
+
+(Mnemonics: intro, declare, redeclare, reassigned?, scope)
 
 The const keyword was introduced in ES6 (2015)
 
