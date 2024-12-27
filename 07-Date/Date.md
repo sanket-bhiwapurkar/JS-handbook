@@ -1,5 +1,12 @@
 # Questions
 
+- 01 What is Date Object in JS?
+- 02 What are different ways of creating date in JS?
+- 03 What is auo-correction in date?
+- 04 Explain displaying dates/converting to string in js.
+- 05 What are different date formats? Explain them in detail.
+- 06 Explain date parsing.
+- 07 Explain date get and set methods.
 
 
 # Date
