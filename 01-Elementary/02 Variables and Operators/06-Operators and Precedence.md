@@ -15,7 +15,7 @@ Logical operators are used to determine the logic between variables or values.
 | Operator | Description |
 | -------- | ----------- |
 | &&       | logical and |
-| \|       | logical or  |
+| \|\|     | logical or  |
 | !        | logical not |
 
 ## JavaScript Arithmetic Operators
@@ -24,9 +24,9 @@ Arithmetic operators perform arithmetic on numbers (literals or variables).
 
 | Operator | Description             |
 | -------- | ----------------------- |
-| -        | Addition                |
-| \*       | Subtraction             |
-| -        | Multiplication          |
+| +        | Addition                |
+| -        | Subtraction             |
+| \*       | Multiplication          |
 | \*\*     | Exponentiation (ES2016) |
 | /        | Division                |
 | %        | Modulus (Remainder)     |
@@ -223,5 +223,7 @@ if (isNaN(age)) {
 ## Delete, in, spread operator
 
 # Precedence
+
+Mnemonics: BINU ASRa Co Bat LaTA
 
 [See](https://www.w3schools.com/js/js_precedence.asp)
