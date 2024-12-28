@@ -11,8 +11,7 @@
 - 09 what in super()?
 - 10 Explain getters and setters in class.
 - 11 Explain Hoisting in class.
-- 12 Explain JS static methods in detail. When to use Static methods. 
-
+- 12 Explain JS static methods in detail. When to use Static methods.
 
 # Classes
 
@@ -41,5 +40,21 @@ myCar.displayInfo(); // Output: Car: Honda Civic
 
 See W3 Javascript:
 [Class Intro](https://www.w3schools.com/js/js_class_intro.asp)
+
 [Class Inheritance](https://www.w3schools.com/js/js_class_inheritance.asp)
+
 [Class Static](https://www.w3schools.com/js/js_class_static.asp)
+
+### When to Use a Static Method in JavaScript:
+
+- Utility or Helper Functions
+
+- The method does not require access to instance-specific data.
+
+- You may want to create instances of a class based on specific conditions or data (maybe for testing / automatic creation of instance), and a static method can help in this scenario.
+
+- Shared Data or Constants:
+
+- managing global state
+
+- The method is closely tied to the class itself rather than to specific objects created from it.
